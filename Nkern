@@ -96,7 +96,7 @@ then
 	cd ..
 	rm out/bzImage
 	printf "Zip Created & Shipped\n"
-	mv out/HoloN_v"$v".zip ../../
+	mv out/Hololite_v"$v".zip ../../
 	sleep 2
 	clear
 	echo "Completion Time :"
